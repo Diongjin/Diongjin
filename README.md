@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=tokyonight)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NAME&theme=tokyo-night)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Diongjin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diongjin&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diongjin&theme=tokyo-night)
