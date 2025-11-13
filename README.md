@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🟦 Java (like2532)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/)
+## 🟨 Python (sdj020321)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/)
+
+| Java | Python |
+|------|--------|
+| <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="25"/><br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/><br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/) |
+
