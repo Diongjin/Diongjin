@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 | Java | Python |
 |------|--------|
-| <img src="https://img.shields.io/badge/Java-1C1C1C?style=flat&logo=java&logoColor=F7DF1E" height="25"/><br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/) | <img src="https://img.shields.io/badge/Python-2E2E2E?style=flat&logo=python&logoColor=white" height="25"/><br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/) |
+| <br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/) | <br/>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/) |
 
 
 ## 🛠 Tech Stack
