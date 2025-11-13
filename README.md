@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/)
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=like2532)](https://solved.ac/like2532/)
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj020321)](https://solved.ac/sdj020321/)
