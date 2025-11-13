@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Views](https://komarev.com/ghpvc/?username=Diongjin&color=gray)
 
 | Java | Python |
 |------|--------|
@@ -30,3 +31,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-3C3C3C?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-6E6E6E?style=for-the-badge&logo=jupyter&logoColor=F57C00"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diongjin&layout=compact&theme=tokyonight)
